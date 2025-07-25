@@ -1,0 +1,15 @@
+Package: lurch
+Title: A bare-bones R package
+Version: 0.0.1
+Date: 2025-07-25
+Description: A bare-bones R Package build used to test code, functions,
+        data, imports, etc... Can be a bit of a messy build at times...
+Authors@R: person(given = "Karl", family = "Ropkins", role = c("aut",
+        "cre"), email = "k.ropkins@its.leeds.ac.uk", comment = c(ORCID
+        = "0000-0002-0294-6997"))
+Maintainer: Karl Ropkins <k.ropkins@its.leeds.ac.uk>
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
