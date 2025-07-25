@@ -1,0 +1,19 @@
+citHeader("To cite 'lurch' package in publications use:")
+
+year <- sub("-.*", "", meta$Date)
+version <- meta$Version
+
+bibentry(bibtype="Manual",
+         title = "lurch: A bare-bones R package",
+         author = c(as.person("Karl Ropkins")),
+         year = year,
+         note = paste("R package version ",
+                    version, sep=""),
+         textVersion = paste("Karl Ropkins (", year, ") ",
+                    "lurch: A bare-bones R package, ",
+                    "R package version ",
+                    version,".", sep=""))
+
+citFooter("Please cite both 'lurch' and R ",
+          "when using 'lurch'.",
+          "For R citation, see ", sQuote("citation()"))
