@@ -10,10 +10,10 @@ What the package does (one paragraph).
 ```
 
 ## Background
-This package was created as... [to finish]
+This package was created as... as a bare.bone package to test stuff with...
 
 ## Contributing
-Contributions are very welcome [to finish].
+Contributions are very welcome.
 
 ## License
 [to be added]
