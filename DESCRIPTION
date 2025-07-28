@@ -1,7 +1,7 @@
 Package: lurch
 Title: A bare-bones R package
-Version: 0.0.1
-Date: 2025-07-25
+Version: 0.0.2
+Date: 2025-07-28
 Description: A bare-bones R Package build used to test code, functions,
         data, imports, etc... Can be a bit of a messy build at times...
 Authors@R: person(given = "Karl", family = "Ropkins", role = c("aut",

@@ -8,7 +8,7 @@
 #' This package was splat packed.
 #'
 #' @section package functions:
-#' [to be added]
+#' testing
 #'
 #' @name lurch-package
 #' @aliases lurch
