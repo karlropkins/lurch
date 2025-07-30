@@ -14,6 +14,6 @@ This package was splat packed.
 }
 \section{package functions}{
 
-\link{to be added}
+test2
 }
 
