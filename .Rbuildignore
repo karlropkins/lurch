@@ -1,3 +1,5 @@
 ^README\.md$
 ^lurch\.Rproj$
 ^\.Rproj\.user$
+^README\.Rmd$
+^LICENSE\.md$

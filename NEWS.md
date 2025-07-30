@@ -2,5 +2,5 @@
 
 ### Miscellaneous
 
-* Package splatted into existance
+* Package splatted into existence
 

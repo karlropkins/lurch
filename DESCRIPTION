@@ -8,7 +8,7 @@ Authors@R: person(given = "Karl", family = "Ropkins", role = c("aut",
         "cre"), email = "k.ropkins@its.leeds.ac.uk", comment = c(ORCID
         = "0000-0002-0294-6997"))
 Maintainer: Karl Ropkins <k.ropkins@its.leeds.ac.uk>
-License: GPL (>= 3)
+License: AGPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
