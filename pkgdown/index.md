@@ -17,7 +17,7 @@ You can install the development version of lurch from
 ``` r
 # (if you do not have remotes package, install it from CRAN) 
 # install.packages("remotes")
-remotes::install_github("karlropkins/AQEval") 
+remotes::install_github("karlropkins/lurch") 
 ```
 
 ## No Example

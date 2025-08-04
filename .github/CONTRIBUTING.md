@@ -1,6 +1,6 @@
-# Contributing to **embrs**
+# Contributing to **lurch**
 
-This outlines how to propose a change to __embrs__. 
+This outlines how to propose a change to __lurch__. 
 
 This text is based on the template provided by the folks who developed the tidyverse packages.
 
@@ -27,7 +27,7 @@ we would appreciate a 'head-up' regardless of the format if you think anything i
 ### Pull request process
 
 *   Fork the package and clone onto your computer. If you haven't done this before, **tidyverse** folks recommend using 
-    `usethis::create_from_github("karlropkins/embrs", fork = TRUE)`.
+    `usethis::create_from_github("karlropkins/lurch", fork = TRUE)`.
 
 *   Install all development dependencies with `devtools::install_dev_deps()`, and then make sure the package passes R CMD check by running `devtools::check()`. 
     If R CMD check doesn't pass cleanly, it's a good idea to get in contact before continuing. 
@@ -52,6 +52,6 @@ we would appreciate a 'head-up' regardless of the format if you think anything i
 
 ## Code of Conduct
 
-Please note that the __embrs__ project is released with a
+Please note that the __lurch__ project is released with a
 [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By contributing to this
 project you agree to abide by its terms.
