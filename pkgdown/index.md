@@ -1,0 +1,25 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# lurch
+
+<!-- badges: start -->
+
+<!-- badges: end -->
+
+The goal of lurch is to …
+
+## Installation
+
+You can install the development version of lurch from
+[GitHub](https://github.com/) with:
+
+``` r
+# (if you do not have remotes package, install it from CRAN) 
+# install.packages("remotes")
+remotes::install_github("karlropkins/AQEval") 
+```
+
+## No Example
+
+This is a bare-bones used for testing stuff…
