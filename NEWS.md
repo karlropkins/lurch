@@ -4,6 +4,9 @@
 
 * Package splatted into existence
 
+## lurch v0.0.3
+*	c code in r package [2025-12-22]
+
 ## lurch v0.0.2
 *	document tidy [2025-08-04]
 *	Github bare bones repo build [2025-08-01]
